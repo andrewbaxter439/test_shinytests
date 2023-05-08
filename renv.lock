@@ -362,18 +362,8 @@
     },
     "httpuv": {
       "Package": "httpuv",
-      "Version": "1.6.10",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "R6",
-        "Rcpp",
-        "later",
-        "promises",
-        "utils"
-      ],
-      "Hash": "503490b202c9ae28e7f58b9b5ae21d9f"
+      "Version": "1.6.9",
+      "Source": "Repository"
     },
     "httr": {
       "Package": "httr",

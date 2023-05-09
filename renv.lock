@@ -367,18 +367,8 @@
     },
     "httr": {
       "Package": "httr",
-      "Version": "1.4.6",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "R6",
-        "curl",
-        "jsonlite",
-        "mime",
-        "openssl"
-      ],
-      "Hash": "7e5e3cbd2a7bc07880c94e22348fb661"
+      "Version": "1.4.5",
+      "Source": "Repository"
     },
     "jquerylib": {
       "Package": "jquerylib",

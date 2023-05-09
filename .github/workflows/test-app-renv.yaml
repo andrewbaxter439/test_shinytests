@@ -41,4 +41,5 @@ jobs:
         with:
           app-dir: |
             simple_app
-            dummy_app
+            first_dummy
+            second_dummy
